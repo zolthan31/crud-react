@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "servidor hadoop",
+      "email": "hd@email.com.br"
+    },
+    {
+      "id": 2,
+      "name": "servidor rails",
+      "email": "rails@email.com.br"
+    },
+    {
+      "id": 3,
+      "name": "servidor chronos",
+      "email": "chronos@email.com.br"
+    },
+    {
+      "name": "servidor storm",
+      "email": "storm@email.com.br",
+      "id": 4
+    }
+  ]
+}
